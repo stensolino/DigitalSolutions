@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalSolutions.Api", "DigitalSolutions.Api\DigitalSolutions.Api.csproj", "{3610CC3C-8EF5-4333-B510-859A057CA7B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalSolutions.Notification", "DigitalSolutions.Notification\DigitalSolutions.Notification.csproj", "{39DBD0DC-399C-46CF-B0EB-31751B6F0581}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3610CC3C-8EF5-4333-B510-859A057CA7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3610CC3C-8EF5-4333-B510-859A057CA7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3610CC3C-8EF5-4333-B510-859A057CA7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39DBD0DC-399C-46CF-B0EB-31751B6F0581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39DBD0DC-399C-46CF-B0EB-31751B6F0581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39DBD0DC-399C-46CF-B0EB-31751B6F0581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39DBD0DC-399C-46CF-B0EB-31751B6F0581}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

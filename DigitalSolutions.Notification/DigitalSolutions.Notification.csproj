@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3610CC3C-8EF5-4333-B510-859A057CA7B0}</ProjectGuid>
+    <ProjectGuid>{39DBD0DC-399C-46CF-B0EB-31751B6F0581}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DigitalSolutions.Api</RootNamespace>
-    <AssemblyName>DigitalSolutions.Api</AssemblyName>
+    <RootNamespace>DigitalSolutions.Notification</RootNamespace>
+    <AssemblyName>DigitalSolutions.Notification</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
