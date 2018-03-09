@@ -3,7 +3,7 @@ using System;
 
 namespace DigitalSolutions.ServiceBus
 {
-    public class ServiceBus
+    public class ServiceBusConfiguration
     {
         public IBusControl ConfigureBus()
         {
